@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is my Coursera Capstone repository
+This is my IBM Data Science Coursera Capstone repository
